@@ -130,8 +130,11 @@ Display probability distribution for all languages
 👤 Author Details
 
 Author: Lokenath Banerjee
+
 Degree: B.Tech in Computer Science Engineering (AI & ML)
+
 Institute: Haldia Institute of Technology
+
 Location: West Bengal, India
 
 ### 🚀 Connect With Me
