@@ -109,23 +109,23 @@ streamlit run app.py
 │   └── tokenizer.pkl              # Tokenizer & label encoder
 ```
 
-✅ Conclusion
+## ✅ Conclusion
 
 This project demonstrates a complete NLP-based deep learning system, covering text preprocessing, RNN model training, and deployment using a web application.
 
 The use of class weights improves model robustness by handling class imbalance, resulting in high accuracy and reliable predictions.
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
-Add more languages to the dataset
+-Add more languages to the dataset
 
-Replace RNN with LSTM / GRU for better accuracy
+-Replace RNN with LSTM / GRU for better accuracy
 
 Display probability distribution for all languages
 
-Deploy the application on Streamlit Cloud
+-Deploy the application on Streamlit Cloud
 
-Improve UI and user experience
+-Improve UI and user experience
 
 👤 Author Details
 
@@ -134,10 +134,14 @@ Degree: B.Tech in Computer Science Engineering (AI & ML)
 Institute: Haldia Institute of Technology
 Location: West Bengal, India
 
-🚀 Connect With Me
+### 🚀 Connect With Me
 
 📧 Email: lokenathb2005@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/lokenath-banerjee-53a95928b/
 
 🐙 GitHub: https://github.com/LokenathBanerjee/
+
+Click below to open the live Streamlit app:
+[➡️ Go to Live App](https://rnn-project-1-gztzxmzqym594qsn4wemhp.streamlit.app/)
+
