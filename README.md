@@ -93,11 +93,11 @@ streamlit run app.py
 | Model Persistence    | Pickle                      |
 | Web Framework        | Streamlit                   |
 | Development Tools    | Jupyter Notebook, IPykernel |
-
+```
 📄 All dependencies are listed in requirements.txt
 
 📁 Project Structure
-
+```
 ├── app.py                         # Streamlit application
 ├── eda.ipynb                      # Exploratory Data Analysis
 ├── prediction.ipynb               # Model training & prediction
@@ -107,7 +107,7 @@ streamlit run app.py
 ├── saved_model/
 │   ├── simple_rnn_model.h5        # Trained RNN model
 │   └── tokenizer.pkl              # Tokenizer & label encoder
-
+```
 
 ✅ Conclusion
 
